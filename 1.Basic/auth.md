@@ -108,9 +108,9 @@ parent: Базовый функционал
 
 
 
-[auth_none]: /images/auth_none.png
-[auth_basic]: /images/auth_basic.png
-[auth_forward]: /images/auth_forward.png
+[auth_none]: images/auth_none.png
+[auth_basic]: images/auth_basic.png
+[auth_forward]: images/auth_forward.png
 [auth_gbasic]: /images/auth_granted_basic.png
 [auth_mgbasic]: /images/auth_m_granted_basic.png
 [auth_gscode]: /images/auth_gstock_code.png
