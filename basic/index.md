@@ -33,6 +33,6 @@ has_children: true
 
 ## Доступный крафт 
 
+Продолжение следует...
 
-
-[main_menu]: /1.Basic/images/main_menu.png
+[main_menu]: images/main_menu.png
