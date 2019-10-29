@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Support
+title: Поддержать проект
 layout: page
 permalink: /support/
-nav_order: 4
+nav_order: 9
 ---
 
 Работа над ботом требует времени и затраты на хостинг. Если вам нравится бот и вы хотите поддержать меня, то вам доступны следующие опции: 

@@ -108,13 +108,13 @@ parent: Базовый функционал
 
 
 
-[auth_none]: /images/auth_none.png
-[auth_basic]: /images/auth_basic.png
-[auth_forward]: /images/auth_forward.png
-[auth_gbasic]: /images/auth_granted_basic.png
-[auth_mgbasic]: /images/auth_m_granted_basic.png
-[auth_gscode]: /images/auth_gstock_code.png
-[auth_gsg]: /images/auth_gstock_granted.png
-[auth_gsmenu]: /images/auth_menu_gs.png
-[guild_roster]: /images/guild_roster.png
+[auth_none]: images/auth_none.png
+[auth_basic]: images/auth_basic.png
+[auth_forward]: images/auth_forward.png
+[auth_gbasic]: images/auth_granted_basic.png
+[auth_mgbasic]: images/auth_m_granted_basic.png
+[auth_gscode]: images/auth_gstock_code.png
+[auth_gsg]: images/auth_gstock_granted.png
+[auth_gsmenu]: images/auth_menu_gs.png
+[guild_roster]: images/guild_roster.png
 
