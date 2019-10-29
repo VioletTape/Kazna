@@ -118,3 +118,4 @@ parent: Базовый функционал
 [auth_gsmenu]: images/auth_menu_gs.png
 [guild_roster]: images/guild_roster.png
 
+
