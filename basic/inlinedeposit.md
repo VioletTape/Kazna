@@ -6,6 +6,7 @@ title: Сдача ресурсов
 layout: default
 nav_order: 3
 parent: Базовый функционал
+has_toc: false
 ---
 Требования: 
 {: .d-inline}
