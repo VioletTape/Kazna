@@ -7,6 +7,7 @@ layout: page
 permalink: /updates/
 nav_order: 4
 has_children: true
+has_toc: false
 ---
 
 Наиболее важное о чем стоит помнить: 
