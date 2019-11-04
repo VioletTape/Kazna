@@ -9,7 +9,14 @@ parent: Гильд чаты
 has_toc: false
 ---
 
-Как работает выдача ресурсов через гильд чат 
+Требования: 
+{: .d-inline}
+
+Гильд сток 
+{: .label .label-blue }
+
+Роли 
+{: .label .label-blue }
 
 [guild_roster]: images/guild_roster.png
 
