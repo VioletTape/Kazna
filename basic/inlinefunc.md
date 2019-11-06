@@ -23,7 +23,7 @@ has_toc: false
 
 Кстати, *f* жать каждый раз не надо. Казна запоминает последний выбранный раздел и после написания `@CW_Kazna_bot` меню с быстрыми действиями появится снова. 
 
-**Reinforce requests** описывается в разделе для продвинутых пользователей. 
+**Reinforce requests** [описывается](https://violettape.github.io/Kazna/advanced/reforge.html) в разделе для продвинутых пользователей. 
 
 [inline_func]: images/inline_func.png
 
